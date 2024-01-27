@@ -3,7 +3,7 @@ import requests
 import time
 from colorama import Fore
 
-os.system('cls')
+os.system('clear')
 
 def titocalderon(numero, sexo, carpeta):
     url = f"https://hbi.acuariosalud.com/federador.asp?accion=renaper&nrodoc={numero}&sexo={sexo}"
