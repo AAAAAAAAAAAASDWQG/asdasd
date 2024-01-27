@@ -59,7 +59,7 @@ if __name__ == "__main__":
     os.makedirs(carpeta_resultados, exist_ok=True)
 
     sexos = ['M', 'F']
-    inicio = 30002849 #lo cambie pa ta bien
+    inicio = 30000000 #lo cambie pa ta bien
     fin = 59999999
     lote_size = 500
     conexiones_concurrentes = 1000  # Ajusta este valor según tus necesidades
