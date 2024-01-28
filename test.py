@@ -30,7 +30,7 @@ def main():
     os.makedirs(carpeta_resultados, exist_ok=True)
 
     sexos = ['M', 'F']
-    inicio = 30000000
+    inicio = 30047606
     fin = 59999999
     lote_size = 500
     lote_actual = 0
